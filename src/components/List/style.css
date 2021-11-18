@@ -1,0 +1,15 @@
+.main-list {
+  color:black;
+}
+
+.list-item {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  border-style: groove;
+  border-width: 2px;
+}
+
+img {
+  width: 200px;
+}
